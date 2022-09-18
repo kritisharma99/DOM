@@ -1,0 +1,1 @@
+document.querySelector(".fl-heading-text").textContent="JSBootcamp";

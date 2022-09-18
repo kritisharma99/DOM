@@ -1,0 +1,1 @@
+document.getElementsByClassName("display-heading-1").item(0).style.cssText="color:red; fontFamily:monospace";
